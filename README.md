@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok</h1>
 <h3 align="center">A Junior Frontend Developer</h3>
 
-- 🌱 I’m currently learning **React.js, TailwindCSS, etc..,**
+- 🌱 I’m currently learning **React.js, TailwindCSS, Other Frontend Stacks,**
 
 - 📫 How to reach me **ashokpalani.bca@gmail.com**
 
