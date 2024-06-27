@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashok</h1>
-<h3 align="center">A Junior Frontend Developer</h3>
+<h3 align="center">A Junior Developer</h3>
 
 - 🌱 I’m currently learning **React.js, TailwindCSS, Other Frontend Stacks,**
 
